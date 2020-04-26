@@ -1,6 +1,6 @@
 {
   "name": "hapi-pagination",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "description": "A hapi plugin to paginate resources",
   "main": "lib/index.js",
   "scripts": {
@@ -20,13 +20,13 @@
   },
   "dependencies": {
     "@hapi/boom": "^7.4.2",
-    "@hapi/hapi": "^18.3.1",
+    "@hapi/hapi": "^18.4.1",
     "@hapi/hoek": "^8.1.0",
     "@hapi/joi": "^15.1.0"
   },
   "devDependencies": {
     "@hapi/code": "^6.0.0",
-    "coveralls": "^3.0.5",
-    "@hapi/lab": "^19.1.0"
+    "@hapi/lab": "^19.1.0",
+    "coveralls": "^3.1.0"
   }
 }
