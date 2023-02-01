@@ -24,7 +24,7 @@
     "@hapi/joi": "^17.1.1"
   },
   "peerDependencies": {
-    "@hapi/hapi": "^19.0.0"
+    "@hapi/hapi": "^20.2.0"
   },
   "devDependencies": {
     "@hapi/bourne": "^3.0.0",
